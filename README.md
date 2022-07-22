@@ -1,4 +1,4 @@
-** SHIB **
+# SHIB 
 1. Build a cryptocoin from scratch using Python
 2. Digitally sign messages and verify signatures
 3. Design and build a tamper-proof blockchain to store any kind of data
